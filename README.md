@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! 🌚
 
 <!--
 **bmarcosps/bmarcosps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a Computer Science student from Juiz de Fora/MG. :brazil:
+
+I'm currently working on:
+* High performance parallel Genectic Programs with OpenCL 
+* Doing some web/app development with React Native, Javascript and Java
+* Figuring out what to do next 😅
+
