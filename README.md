@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a Computer Science student from Juiz de Fora/MG. :brazil:
+I'm a Web Developer and Computer Scientist from Juiz de Fora/MG. :brazil:
 
 I'm currently working on:
-* High performance parallel Genectic Programs with OpenCL 
-* Doing some web/app development with React Native, Javascript and Java
+* Developing web systems with Typescript, React.js and Node.js
+* Building CI/CD pipelines with Github Actions and AWS services
+* Currently working as a Fullstack web developer
 * Figuring out what to do next 😅
+* You can find me in [my website](https://www.brunomarcos.dev/)
+
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-marcos-p-silva/)
 
