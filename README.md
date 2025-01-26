@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 I'm a Web Developer and Computer Scientist from Juiz de Fora/MG. :brazil:
 
+I currently also a work github at @bmarcosps-umode
+
 I'm currently working on:
 * Developing web systems with Typescript, React.js and Node.js
 * Building CI/CD pipelines with Github Actions and AWS services
